@@ -1,0 +1,9 @@
+selenium
+pandas
+numpy
+seaborn
+matplotlib
+streamlit
+webdriver-manager
+plotly
+mysql-connector-python
